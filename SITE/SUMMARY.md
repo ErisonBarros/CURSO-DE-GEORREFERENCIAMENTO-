@@ -1,4 +1,4 @@
-# Table of contents
+# SUMÁRIO
 
 * [APRESENTAÇÃO](README.md)
 * [EMENTA](ementa.md)
