@@ -43,4 +43,3 @@ Sugestões, correções e contribuições são bem-vindas! Sinta-se à vontade p
 
 ---
 
-Se desejar personalizar com mais detalhes (ex: nome do instrutor, datas, certificação, etc.), me avise!
