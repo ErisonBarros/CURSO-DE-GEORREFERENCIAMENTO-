@@ -1,6 +1,8 @@
 # APRESENTAÇÃO
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+[https://erisonbarros.gitbook.io/curso-de-georreferenciamento](https://erisonbarros.gitbook.io/curso-de-georreferenciamento)
 
 {% embed url="https://zilrigkn.manus.space/" %}
 
