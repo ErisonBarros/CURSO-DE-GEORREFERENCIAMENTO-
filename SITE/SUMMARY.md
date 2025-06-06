@@ -5,4 +5,6 @@
 * [Fundamentos e Contexto Legal](fundamentos-e-contexto-legal.md)
 * [Etapas de Produção de Insumos Cartográficos](etapas-de-producao-de-insumos-cartograficos.md)
 * [O georreferenciamento](o-georreferenciamento.md)
-* [O Georreferenciamento](o-georreferenciamento-1.md)
+* [O Georreferenciamento](page.md)
+* [SICAR](sicar.md)
+* [SIGEF](sigef.md)
