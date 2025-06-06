@@ -1,3 +1,7 @@
+---
+icon: wagon-covered
+---
+
 # PRECISÃO E EXATIDÃO
 
 #### 🧠 **1. Conceitos Fundamentais**
