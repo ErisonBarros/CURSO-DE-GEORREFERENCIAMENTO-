@@ -1,3 +1,7 @@
+---
+icon: scale-balanced
+---
+
 # Fundamentos e Contexto Legal
 
 #### **Conceitos Básicos e Terminologias**
