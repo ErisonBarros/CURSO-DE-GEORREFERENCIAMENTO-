@@ -26,7 +26,7 @@ Entre os principais conceitos abordados, destacam-se:
 
 * **Projeção Cartográfica:** técnica que permite representar a superfície curva da Terra em um plano. A mais utilizada em levantamentos de precisão no Brasil é a projeção UTM (Universal Transversa de Mercator).
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -24,7 +24,7 @@ O processo de produção pode ser dividido nas seguintes etapas:
 
 {% tabs %}
 {% tab title="INCRA - SIGEF" %}
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [https://sigef.incra.gov.br/](https://sigef.incra.gov.br/)
 {% endtab %}

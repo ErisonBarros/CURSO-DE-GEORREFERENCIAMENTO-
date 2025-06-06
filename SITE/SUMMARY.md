@@ -1,6 +1,7 @@
 # Table of contents
 
 * [APRESENTAÇÃO](README.md)
+  * [Folden do Curso](readme/folden-do-curso.md)
   * [Questionário de Perfil](readme/questionario-de-perfil.md)
 * [EMENTA](ementa.md)
 * [Fundamentos e Contexto Legal](fundamentos-e-contexto-legal.md)
