@@ -22,11 +22,11 @@ Entre os principais conceitos abordados, destacam-se:
 
 * **Datum Geodésico:** referência utilizada para calcular as coordenadas de pontos na superfície terrestre. Exemplo: SAD69 (antigo) e SIRGAS2000 (atual).
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Projeção Cartográfica:** técnica que permite representar a superfície curva da Terra em um plano. A mais utilizada em levantamentos de precisão no Brasil é a projeção UTM (Universal Transversa de Mercator).
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

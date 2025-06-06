@@ -3,11 +3,7 @@ description: Prof. Erison Barros
 icon: location-arrow-up
 ---
 
-# O georreferenciamento
-
-***
-
-### 📜 2. Principais Normas e Leis
+# Principais Normas e Leis
 
 #### ✅ 2.1. **Lei nº 6.015/1973 (Lei de Registros Públicos)**
 

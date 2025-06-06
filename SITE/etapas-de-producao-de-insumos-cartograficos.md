@@ -24,13 +24,13 @@ O processo de produção pode ser dividido nas seguintes etapas:
 
 {% tabs %}
 {% tab title="INCRA - SIGEF" %}
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [https://sigef.incra.gov.br/](https://sigef.incra.gov.br/)
 {% endtab %}
 
 {% tab title="IBAMA - CPRH - CAR" %}
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 [https://www.car.gov.br/#/](https://www.car.gov.br/#/)
 {% endtab %}

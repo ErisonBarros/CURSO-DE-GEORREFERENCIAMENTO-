@@ -2,13 +2,7 @@
 icon: monero
 ---
 
-# O Georreferenciamento
-
-O georreferenciamento de imóveis rurais não é apenas um processo técnico. Envolve também um **trâmite administrativo** rigoroso, com exigências legais e documentais específicas. A conformidade com esse processo é essencial para que o imóvel possa ser certificado pelo **INCRA** e, posteriormente, registrado ou regularizado nos cartórios.
-
-***
-
-### 🏛️ 2. Etapas do Processo Administrativo
+# Etapas do Processo Administrativo
 
 #### 📌 2.1. **Contratação do Profissional Habilitado**
 
