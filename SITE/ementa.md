@@ -1,3 +1,7 @@
+---
+icon: wave-square
+---
+
 # EMENTA
 
 #### Dia 1: Fundamentos e Contexto Legal
