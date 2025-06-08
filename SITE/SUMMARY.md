@@ -12,6 +12,7 @@
 * [PRECISÃO E EXATIDÃO](precisao-e-exatidao.md)
 * [SICAR](sicar.md)
 * [SIGEF](sigef.md)
+* [Como Visualizar os arquivos gerados no Google Earth e no Mymaps](como-visualizar-os-arquivos-gerados-no-google-earth-e-no-mymaps.md)
 * [Como utilizar o Google Earth Desktop off-line](como-utilizar-o-google-earth-desktop-off-line.md)
 * [Como baixar dados do PE3D](como-baixar-dados-do-pe3d.md)
 * [PRINCÍPIOS BASILARES DO REGISTRO DE IMÓVEIS](principios-basilares-do-registro-de-imoveis.md)
