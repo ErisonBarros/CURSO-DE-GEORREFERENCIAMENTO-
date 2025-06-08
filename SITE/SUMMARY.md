@@ -16,6 +16,7 @@
 * [PRINCÍPIOS BASILARES DO REGISTRO DE IMÓVEIS](principios-basilares-do-registro-de-imoveis.md)
 * [Compartilhar Localização com o Google Maps](compartilhar-localizacao-com-o-google-maps.md)
 * [Como Visualizar os Mapas do Mymaps e do Google Earth no Google Drive versão Mobile](como-visualizar-os-mapas-do-mymaps-e-do-google-earth-no-google-drive-versao-mobile.md)
+* [Uso do Mymaps para geração de Mapas de Localização](uso-do-mymaps-para-geracao-de-mapas-de-localizacao.md)
 * [COMO SUBMETER UMA PLANILHA .ODS AO SIGEF](como-submeter-uma-planilha-.ods-ao-sigef.md)
 * [PEC-PCD](pec-pcd.md)
 * [Material de Apoio](material-de-apoio.md)
