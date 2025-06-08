@@ -13,6 +13,7 @@
 * [SICAR](sicar.md)
 * [SIGEF](sigef.md)
 * [PPP-IBGE](ppp-ibge.md)
+* [Importar coordenadas do PPP IBGE no QGIS](importar-coordenadas-do-ppp-ibge-no-qgis.md)
 * [VÍDEOS](videos/README.md)
   * [Google Earth / Mymaps](videos/google-earth-mymaps/README.md)
     * [Como Visualizar os arquivos gerados no Google Earth e no Mymaps](videos/google-earth-mymaps/como-visualizar-os-arquivos-gerados-no-google-earth-e-no-mymaps.md)
