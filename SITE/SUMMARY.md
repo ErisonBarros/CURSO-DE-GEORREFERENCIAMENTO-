@@ -3,6 +3,7 @@
 * [APRESENTAÇÃO](README.md)
   * [Questionário de Perfil](readme/questionario-de-perfil.md)
   * [Folden do Curso](readme/folden-do-curso.md)
+  * [Acesso ao Grupo do Google Classes](readme/acesso-ao-grupo-do-google-classes.md)
 * [EMENTA](ementa.md)
 * [Fundamentos e Contexto Legal](fundamentos-e-contexto-legal.md)
 * [Conhecimentos Básicos - Topografia/Cartografia](conhecimentos-basicos-topografia-cartografia.md)
