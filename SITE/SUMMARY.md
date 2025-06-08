@@ -21,6 +21,7 @@
     * [Uso do Mymaps para geração de Mapas de Localização](videos/google-earth-mymaps/uso-do-mymaps-para-geracao-de-mapas-de-localizacao.md)
     * [Uso do Google Earth no  Smartphone](videos/google-earth-mymaps/uso-do-google-earth-no-smartphone.md)
   * [SIGEF](videos/sigef/README.md)
+    * [Como preencher a planilha ODS](videos/sigef/como-preencher-a-planilha-ods.md)
     * [COMO SUBMETER UMA PLANILHA .ODS AO SIGEF](videos/sigef/como-submeter-uma-planilha-.ods-ao-sigef.md)
   * [PE3D](videos/pe3d/README.md)
     * [Como baixar dados do PE3D](videos/pe3d/como-baixar-dados-do-pe3d.md)
