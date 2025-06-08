@@ -12,7 +12,7 @@
 * [PRECISÃO E EXATIDÃO](precisao-e-exatidao.md)
 * [SICAR](sicar.md)
 * [SIGEF](sigef/README.md)
-  * [Page](sigef/page.md)
+  * [Explicação Sigef](sigef/explicacao-sigef.md)
 * [PPP-IBGE](ppp-ibge.md)
 * [Importar coordenadas do PPP IBGE no QGIS](importar-coordenadas-do-ppp-ibge-no-qgis.md)
 * [VÍDEOS](videos/README.md)
