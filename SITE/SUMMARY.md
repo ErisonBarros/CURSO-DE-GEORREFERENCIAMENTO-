@@ -12,5 +12,6 @@
 * [PRECISÃO E EXATIDÃO](precisao-e-exatidao.md)
 * [SICAR](sicar.md)
 * [SIGEF](sigef.md)
+* [Como baixar dados do PE3D](como-baixar-dados-do-pe3d.md)
 * [PEC-PCD](pec-pcd.md)
 * [Material de Apoio](material-de-apoio.md)
