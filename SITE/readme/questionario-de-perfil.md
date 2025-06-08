@@ -1,4 +1,8 @@
-# Page
+---
+layout: landing
+---
+
+# Questionário de Perfil
 
 <figure><img src="../.gitbook/assets/qrcode_docs.google.com (1).png" alt=""><figcaption></figcaption></figure>
 

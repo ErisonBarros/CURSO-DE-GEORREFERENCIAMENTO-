@@ -1,8 +1,8 @@
 # Table of contents
 
 * [APRESENTAÇÃO](README.md)
-  * [Folden do Curso](readme/folden-do-curso.md)
   * [Questionário de Perfil](readme/questionario-de-perfil.md)
+  * [Folden do Curso](readme/folden-do-curso.md)
 * [EMENTA](ementa.md)
 * [Fundamentos e Contexto Legal](fundamentos-e-contexto-legal.md)
 * [Conhecimentos Básicos - Topografia/Cartografia](conhecimentos-basicos-topografia-cartografia.md)
