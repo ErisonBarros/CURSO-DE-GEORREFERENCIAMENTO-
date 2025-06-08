@@ -28,5 +28,6 @@
     * [Como baixar dados do PE3D](videos/pe3d/como-baixar-dados-do-pe3d.md)
   * [RGI](videos/rgi/README.md)
     * [PRINCÍPIOS BASILARES DO REGISTRO DE IMÓVEIS](videos/rgi/principios-basilares-do-registro-de-imoveis.md)
+* [SHORTS](shorts.md)
 * [PEC-PCD](pec-pcd.md)
 * [Material de Apoio](material-de-apoio.md)
