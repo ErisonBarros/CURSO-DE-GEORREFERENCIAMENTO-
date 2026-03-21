@@ -5,7 +5,7 @@
   * [Folden do Curso](readme/folden-do-curso.md)
   * [Acesso ao Grupo do Google Classes](readme/acesso-ao-grupo-do-google-classes.md)
 * [Grupo do Whatzap](grupo-do-whatzap.md)
-* [EMENTA](ementa.md)
+* [1. EMENTA](ementa.md)
 * [Fundamentos e Contexto Legal](fundamentos-e-contexto-legal.md)
 * [Conhecimentos Básicos - Topografia/Cartografia](conhecimentos-basicos-topografia-cartografia.md)
 * [Etapas de Produção de Insumos Cartográficos](etapas-de-producao-de-insumos-cartograficos.md)
